@@ -1,0 +1,1 @@
+ D:\\Kuliah\\Tekber\\123\\UTS-master\\.dart_tool\\flutter_build\\929da27c002e8b858f78ec6b43264c59\\native_assets.yaml: 

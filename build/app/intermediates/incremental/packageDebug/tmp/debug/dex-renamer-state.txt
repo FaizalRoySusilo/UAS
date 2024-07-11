@@ -1,0 +1,4 @@
+#Fri Jul 12 01:14:30 WIB 2024
+base.0=D\:\\Kuliah\\Tekber\\123\\UTS-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,13 @@
+com.example.coba.app-jetified-window-1.0.0-beta04-0 C:\Users\rozak\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+com.example.coba.app-jetified-window-java-1.0.0-beta04-1 C:\Users\rozak\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.coba.app-core-1.6.0-2 C:\Users\rozak\.gradle\caches\transforms-3\2579a7de00054bf46a8dbc332552f622\transformed\core-1.6.0\res
+com.example.coba.app-jetified-annotation-experimental-1.1.0-3 C:\Users\rozak\.gradle\caches\transforms-3\3f96ca76068ab400b494bc7d541ee256\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.coba.app-debug-4 D:\Kuliah\Tekber\123\UTS-master\android\app\src\debug\res
+com.example.coba.app-main-5 D:\Kuliah\Tekber\123\UTS-master\android\app\src\main\res
+com.example.coba.app-pngs-6 D:\Kuliah\Tekber\123\UTS-master\build\app\generated\res\pngs\debug
+com.example.coba.app-resValues-7 D:\Kuliah\Tekber\123\UTS-master\build\app\generated\res\resValues\debug
+com.example.coba.app-rs-8 D:\Kuliah\Tekber\123\UTS-master\build\app\generated\res\rs\debug
+com.example.coba.app-mergeDebugResources-9 D:\Kuliah\Tekber\123\UTS-master\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.coba.app-mergeDebugResources-10 D:\Kuliah\Tekber\123\UTS-master\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.coba.app-merged_res-11 D:\Kuliah\Tekber\123\UTS-master\build\app\intermediates\merged_res\debug
+com.example.coba.app-packaged_res-12 D:\Kuliah\Tekber\123\UTS-master\build\sqflite\intermediates\packaged_res\debug
